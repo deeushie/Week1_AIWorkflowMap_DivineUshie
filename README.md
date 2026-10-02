@@ -21,4 +21,3 @@ MVPH is an online marketplace for phones, laptops, accessories and gadgets where
 ## Links
 
 - Google Doc: https://docs.google.com/document/d/1E2y3kAKIUki0MUwfZ_fiuVOVvpK1dO7ymGOn4h_hioI/edit
-- PDF copy: `Week1_AIWorkflowMap_DivineUshie.pdf` (in this folder)
